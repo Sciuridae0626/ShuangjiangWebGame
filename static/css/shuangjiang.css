@@ -1,0 +1,25 @@
+
+/**
+*@module ex7
+*@author XXX
+*@description 样式设置
+*@version 1.0
+*/
+
+#myCanvas{	
+    border:1px solid #000000;
+
+}
+
+.container{
+    width:90%;
+    margin:auto;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items:middle;
+}
+
+
+
+
